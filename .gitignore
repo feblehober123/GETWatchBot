@@ -1,0 +1,7 @@
+/analytics.py
+/.boards_cache.txt
+/GETWatchBot.jpg
+/oauth.conf
+/oauth.py
+*.pyc
+*~
